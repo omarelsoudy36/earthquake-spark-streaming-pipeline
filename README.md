@@ -2,6 +2,13 @@
 
 An end-to-end real-time data streaming pipeline built on **Databricks** and **PySpark**, designed to ingest, process, clean, and enrich global earthquake data using the **Medallion Architecture (Bronze → Silver → Gold)**.
 
+
+---
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/)
+[![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Delta Lake](https://img.shields.io/badge/Delta_Lake-000000?style=for-the-badge&logo=delta-lake&logoColor=white)](https://delta.io/)
+[![SQL](https://img.shields.io/badge/SQL-025E8D?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.w3schools.com/sql/)
 ---
 
 ## 📐 Architecture & Workflow
