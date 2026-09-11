@@ -10,6 +10,13 @@ An end-to-end real-time data streaming pipeline built on **Databricks** and **Py
 [![Delta Lake](https://img.shields.io/badge/Delta_Lake-000000?style=for-the-badge&logo=delta-lake&logoColor=white)](https://delta.io/)
 [![SQL](https://img.shields.io/badge/SQL-025E8D?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.w3schools.com/sql/)
 ---
+## 🌐 Data Source
+The raw earthquake streaming data is sourced directly from the **United States Geological Survey (USGS) Earthquake Hazards Program** via their public real-time API feeds.
+
+* **Source Provider:** USGS (U.S. Geological Survey)
+* **Feed Format:** GeoJSON Feed / JSON Payload
+* **Endpoint / Documentation:** [USGS Real-time Earthquake Feeds](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
+---
 
 ## 📐 Architecture & Workflow
 
